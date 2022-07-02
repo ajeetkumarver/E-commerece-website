@@ -52,5 +52,5 @@ An E-commerce website
 
 
 
-![Screenshot (59)](https://user-images.githubusercontent.com/94932799/177001769-b036a98e-9957-4c1f-aa0d-bcee0b92974e.png)
+
 
