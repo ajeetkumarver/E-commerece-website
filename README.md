@@ -1,5 +1,4 @@
 # E-commerece-website
-# Music Lyrics
 
 An E-commerce website
 
@@ -13,12 +12,10 @@ An E-commerce website
 
 ## Features
 
-- Used API
-- Neumorphic design
-- Cross platform
-- State management using BLoC Architecture
-- Make using MVC project structure
-- Used Hive database to store liked songs data
+-It has different functionalities like Login/SignUp , Add to cart, Logout ,etc.
+-Used HTML , CSS , BOOTSTRAP for frontend
+-Used MYSQL for Databases
+-Used PHP for backend
 
 
 ## Tech Used
