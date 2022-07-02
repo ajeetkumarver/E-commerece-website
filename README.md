@@ -1,16 +1,14 @@
 # E-commerece-website
 # Music Lyrics
 
-A flutter app that gives information about songs using API.
+An E-commerce website
 
-## App Logo
 
-<img src="https://i.pinimg.com/originals/ae/2e/56/ae2e5651b74a00d5d31b8c6453fa3ebb.png" alt="alt text" title="image Title"  height="450" />
 
 
 ## Authors
 
-- [@kritagyaShekhar](https://github.com/kritagyashekhar2001)
+- [@Ajeetverma](https://github.com/ajeetkumarver)
 
 
 ## Features
@@ -25,40 +23,32 @@ A flutter app that gives information about songs using API.
 
 ## Tech Used
 
-*Used:* Flutter, Firebase, Api, Hive,State Management
+*Used:HTML , CSS, BOOTSTRAP , MySQL, PHP
 
 ## Screenshots
 
 ![Screenshot (59)](https://user-images.githubusercontent.com/94932799/177001769-b036a98e-9957-4c1f-aa0d-bcee0b92974e.png)
 
-<img src='https://user-images.githubusercontent.com/93006120/168332031-d1652df2-4198-443f-aaab-2704be8fc3c1.png' width='250' height='510'/> <> <img src='https://user-images.githubusercontent.com/93006120/168332091-0b8aa864-c5e3-4710-a6ca-c6f40dcc4e23.png' width='250' height='510'/>
 
-<img src='https://user-images.githubusercontent.com/93006120/168332057-b249939e-a4f6-4baf-93b7-13769fb87236.png' width='250' height='510'/> <> <img src='https://user-images.githubusercontent.com/93006120/168332131-dd856c19-dfc2-4402-9f31-81273447a72f.png' width='250' height='510'/> 
+![Screenshot (60)](https://user-images.githubusercontent.com/94932799/177001898-b5411a59-87f6-4f1e-9954-f419e56d4bab.png)
 
-<img src='https://user-images.githubusercontent.com/93006120/168332091-0b8aa864-c5e3-4710-a6ca-c6f40dcc4e23.png' width='250' height='510'/> <> <img src='https://user-images.githubusercontent.com/93006120/168332065-39621d14-31f2-410f-b07b-c7fdbd2974d9.png' width='250' height='510'/> 
-
-
-## To install this app
-
-### Prerequisites
-
-You need to have *Flutter SDK* installed , if not install it from [here](https://flutter.dev/docs/get-started/install)
-
-### Installing
-
-Clone this repository, open it in an IDE and in the root directory run :
-
-`flutter pub get`
-
-then connect your emulator/simulator/physical device and run :
-
-`flutter run`
-
-<br>
+![Screenshot (61)](https://user-images.githubusercontent.com/94932799/177001903-3558539d-e680-4cf5-8946-9e2a913df68c.png)
 
 
-For help getting started with Flutter, view online [documentation](https://flutter.dev/docs)
 
+![Screenshot (62)](https://user-images.githubusercontent.com/94932799/177001909-27521fd4-d001-42cb-8bfc-d3d3cb7ad58f.png)
+
+
+
+![Screenshot (63)](https://user-images.githubusercontent.com/94932799/177001915-db6df5dd-b79d-48cf-b575-76a068f4980c.png)
+
+
+
+![Screenshot (64)](https://user-images.githubusercontent.com/94932799/177001919-72bc15ad-c75d-400e-985b-352c56f2a708.png)
+
+
+
+![Screenshot (65)](https://user-images.githubusercontent.com/94932799/177001926-9b1064f8-8b5e-4f56-ac52-c075f4faaf70.png)
 
 
 
