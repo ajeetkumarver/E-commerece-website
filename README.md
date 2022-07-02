@@ -52,9 +52,9 @@ An E-commerce website
 SETUP
 Start the Apache and MySQL modules using the XAMPP controller.
 Open the phpMyAdmin and create a database "store".
-Import the lifestylestore.sql file present in the zip folder.
-Open the htdocs folder in the xampp folder. Copy paste the folder lifestylestore.
-Open the browser (chrome), type localhost/lifestylestore and you should see the index page of the website.
+Import the store.sql file present in the php folder.
+Open the htdocs folder in the xampp folder. Copy paste the folder php.
+Open the browser (chrome), type localhost/php and you should see the index page of the website.
 
 
 
