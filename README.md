@@ -29,7 +29,7 @@ A flutter app that gives information about songs using API.
 
 ## Screenshots
 
-<img src='https://user-images.githubusercontent.com/94932799/177001769-b036a98e-9957-4c1f-aa0d-bcee0b92974e.png' width='1200' height='600'/> 
+![Screenshot (59)](https://user-images.githubusercontent.com/94932799/177001769-b036a98e-9957-4c1f-aa0d-bcee0b92974e.png)
 
 <img src='https://user-images.githubusercontent.com/93006120/168332031-d1652df2-4198-443f-aaab-2704be8fc3c1.png' width='250' height='510'/> <> <img src='https://user-images.githubusercontent.com/93006120/168332091-0b8aa864-c5e3-4710-a6ca-c6f40dcc4e23.png' width='250' height='510'/>
 
